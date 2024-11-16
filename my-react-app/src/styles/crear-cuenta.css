@@ -1,0 +1,541 @@
+.frame-child5 {
+    width: 1919px;
+    height: 859px;
+    position: relative;
+    background-color: var(--color-goldenrod);
+    display: none;
+    max-width: 100%;
+  }
+  .logo-ferreexpres-largo-mesa-de {
+    height: 64px;
+    width: 283px;
+    position: relative;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .content,
+  .form-container-child {
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .content {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 72px;
+  }
+  .form-container-child {
+    width: 442.8px;
+    height: 664.7px;
+    position: relative;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-silver);
+    display: none;
+  }
+  .crear-cuenta1,
+  .nombre1 {
+    position: relative;
+    line-height: 105.6%;
+    font-weight: 600;
+    font-family: var(--font-inter);
+    color: var(--color-black);
+    text-align: left;
+    z-index: 2;
+  }
+  .crear-cuenta1 {
+    margin: 0;
+    width: 248.2px;
+    font-size: var(--font-size-11xl);
+    display: inline-block;
+  }
+  .nombre1 {
+    width: 258px;
+    font-size: var(--font-size-base);
+    display: flex;
+    align-items: center;
+  }
+  .input-elements-child {
+    height: 41.1px;
+    width: 380.6px;
+    position: relative;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    display: none;
+    max-width: 100%;
+  }
+  .nombres-y-apellidos {
+    width: 342.4px;
+    border: 0;
+    outline: 0;
+    font-weight: 500;
+    font-family: var(--font-inter);
+    font-size: var(--font-size-mini);
+    background-color: transparent;
+    position: relative;
+    line-height: 137%;
+    color: var(--color-darkgray);
+    text-align: left;
+    display: inline-block;
+    padding: 0;
+    max-width: 100%;
+    z-index: 3;
+  }
+  .input-elements,
+  .input-fields {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .input-elements {
+    flex: 1;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    flex-direction: row;
+    padding: var(--padding-5xs) var(--padding-sm);
+    z-index: 2;
+  }
+  .input-fields {
+    height: 69.3px;
+    flex-direction: column;
+    padding: 0 0 var(--padding-8xs-6);
+    gap: var(--gap-6xs-1);
+  }
+  .correo-electronico {
+    width: 258px;
+    position: relative;
+    font-size: var(--font-size-base);
+    line-height: 105.6%;
+    font-weight: 600;
+    font-family: var(--font-inter);
+    color: var(--color-black);
+    text-align: left;
+    display: flex;
+    align-items: center;
+    z-index: 2;
+  }
+  .input {
+    border: 1px solid var(--color-black);
+    outline: 0;
+    background-color: var(--color-white);
+    align-self: stretch;
+    height: 41.1px;
+    position: relative;
+    border-radius: var(--br-8xs);
+    box-sizing: border-box;
+    min-width: 228px;
+    z-index: 2;
+  }
+  .input-fields1 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 4.5px;
+    gap: var(--gap-6xs-1);
+  }
+  .contrasea {
+    width: 258px;
+    position: relative;
+    font-size: var(--font-size-base);
+    line-height: 105.6%;
+    font-weight: 600;
+    font-family: var(--font-inter);
+    color: var(--color-black);
+    text-align: left;
+    display: flex;
+    align-items: center;
+    z-index: 2;
+  }
+  .frame-child6 {
+    height: 41.1px;
+    width: 380.6px;
+    position: relative;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    display: none;
+    max-width: 100%;
+  }
+  .minimos-6-caracteres {
+    width: 342.4px;
+    border: 0;
+    outline: 0;
+    font-weight: 500;
+    font-family: var(--font-inter);
+    font-size: var(--font-size-mini);
+    background-color: transparent;
+    position: relative;
+    line-height: 137%;
+    color: var(--color-darkgray);
+    text-align: left;
+    display: inline-block;
+    padding: 0;
+    max-width: 100%;
+    z-index: 3;
+  }
+  .input-fields2,
+  .rectangle-parent5 {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .rectangle-parent5 {
+    flex: 1;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    flex-direction: row;
+    padding: var(--padding-5xs) var(--padding-2xs);
+    z-index: 2;
+  }
+  .input-fields2 {
+    height: 69.3px;
+    flex-direction: column;
+    padding: 0 0 var(--padding-8xs-6);
+    gap: var(--gap-6xs-1);
+  }
+  .confirmar-contrasea {
+    width: 258px;
+    position: relative;
+    font-size: var(--font-size-base);
+    line-height: 105.6%;
+    font-weight: 600;
+    font-family: var(--font-inter);
+    color: var(--color-black);
+    text-align: left;
+    display: flex;
+    align-items: center;
+    z-index: 2;
+  }
+  .input-fields-child {
+    border: 1px solid var(--color-black);
+    outline: 0;
+    background-color: var(--color-white);
+    align-self: stretch;
+    height: 41.1px;
+    position: relative;
+    border-radius: var(--br-8xs);
+    box-sizing: border-box;
+    min-width: 228px;
+    z-index: 2;
+  }
+  .input-fields3 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 7.6px;
+    gap: var(--gap-6xs-1);
+  }
+  .frame-child7 {
+    height: 41.1px;
+    width: 380.6px;
+    position: relative;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-lightcoral);
+    display: none;
+    max-width: 100%;
+  }
+  .continuar {
+    flex: 1;
+    position: relative;
+    font-size: var(--font-size-base);
+    line-height: 105.6%;
+    font-weight: 600;
+    font-family: var(--font-inter);
+    color: var(--color-black);
+    text-align: center;
+    z-index: 1;
+  }
+  .group-button {
+    cursor: pointer;
+    border: 0;
+    padding: 12.2px var(--padding-109xl) 11.4px;
+    background-color: var(--color-lightcoral);
+    align-self: stretch;
+    border-radius: var(--br-8xs);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    box-sizing: border-box;
+    max-width: 100%;
+    z-index: 2;
+  }
+  .group-button:hover {
+    background-color: var(--color-indianred);
+  }
+  .al-continuaraceptas-las {
+    color: var(--color-black);
+  }
+  .condiciones-de-uso {
+    text-decoration: underline;
+    color: var(--color-steelblue);
+  }
+  .y-el {
+    color: var(--color-black);
+  }
+  .aviso-de-privacidad {
+    text-decoration: underline;
+    color: var(--color-steelblue);
+  }
+  .de-ferreexpress {
+    color: var(--color-black);
+  }
+  .al-continuaraceptas-las-container {
+    position: relative;
+    font-size: var(--font-size-mini);
+    line-height: 148%;
+    font-family: var(--font-inter);
+    text-align: left;
+    z-index: 2;
+  }
+  .form-fields,
+  .login-link-child {
+    align-self: stretch;
+    max-width: 100%;
+  }
+  .form-fields {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 14.5px;
+  }
+  .login-link-child {
+    position: relative;
+    overflow: hidden;
+    max-height: 100%;
+    z-index: 2;
+  }
+  .inicia-sesin {
+    color: var(--color-steelblue);
+  }
+  .ya-tienes-una-container {
+    flex: 1;
+    position: relative;
+    line-height: 137%;
+    font-weight: 500;
+    z-index: 2;
+  }
+  .ya-tienes-una-cuenta-inicia-s-wrapper {
+    width: 369.4px;
+    flex-direction: row;
+    padding: 0 var(--padding-24xl) 0 var(--padding-25xl);
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .form-container,
+  .login-link,
+  .login-link-wrapper,
+  .ya-tienes-una-cuenta-inicia-s-wrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .login-link {
+    flex: 1;
+    flex-direction: column;
+    gap: 14.4px;
+    max-width: 100%;
+  }
+  .form-container,
+  .login-link-wrapper {
+    align-self: stretch;
+  }
+  .login-link-wrapper {
+    flex-direction: row;
+    padding: 0 var(--padding-12xs) 0 var(--padding-9xs);
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .form-container {
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-silver);
+    flex-direction: column;
+    padding: 26px var(--padding-5xl) var(--padding-25xl) var(--padding-12xl);
+    gap: 70px;
+    z-index: 1;
+  }
+  .form-container,
+  .frame-child8,
+  .frame-main {
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .frame-main {
+    align-self: stretch;
+    background-color: var(--color-goldenrod);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-15xl) 735px 59.3px 741px;
+    gap: var(--gap-18xl);
+    flex-shrink: 0;
+    text-align: center;
+    font-size: var(--font-size-mini);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
+  .frame-child8 {
+    width: 1920px;
+    height: 266px;
+    position: relative;
+    background-color: var(--color-whitesmoke-300);
+    border: 1px solid var(--color-silver);
+    display: none;
+  }
+  .avisos-de-privacidad,
+  .condiciones-de-uso1 {
+    flex: 1;
+    position: relative;
+    line-height: 137%;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 161px;
+    z-index: 1;
+  }
+  .ferreexpress,
+  .legal-links {
+    align-self: stretch;
+    display: flex;
+  }
+  .legal-links {
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    gap: var(--gap-7xs);
+  }
+  .ferreexpress {
+    height: 40px;
+    position: relative;
+    line-height: 137%;
+    font-weight: 500;
+    color: var(--color-dimgray);
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .group-div {
+    flex: 1;
+    background-color: var(--color-whitesmoke-300);
+    border: 1px solid var(--color-silver);
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-23xl) var(--padding-691xl) var(--padding-128xl);
+    gap: var(--gap-7xs);
+    flex-shrink: 0;
+    max-width: 100%;
+    z-index: 1;
+  }
+  .crear-cuenta,
+  .footer,
+  .group-div {
+    display: flex;
+    box-sizing: border-box;
+  }
+  .footer {
+    align-self: stretch;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 var(--padding-9xs) 0 var(--padding-12xs);
+    max-width: 100%;
+    flex-shrink: 0;
+    text-align: center;
+    font-size: var(--font-size-lg);
+    color: var(--color-steelblue);
+    font-family: var(--font-inter);
+  }
+  .crear-cuenta {
+    width: 100%;
+    height: 1073px;
+    position: relative;
+    background-color: var(--color-white);
+    overflow: hidden;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: 0 0 214px;
+    line-height: normal;
+    letter-spacing: normal;
+  }
+  @media screen and (max-width: 1050px) {
+    .crear-cuenta1 {
+      font-size: var(--font-size-5xl);
+      line-height: 25px;
+    }
+    .frame-main {
+      padding-top: var(--padding-3xl);
+      padding-bottom: var(--padding-20xl);
+      box-sizing: border-box;
+    }
+    .crear-cuenta {
+      height: auto;
+    }
+  }
+  @media screen and (max-width: 750px) {
+    .content {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .crear-cuenta1 {
+      font-size: var(--font-size-lg);
+      line-height: 19px;
+    }
+    .group-button,
+    .ya-tienes-una-cuenta-inicia-s-wrapper {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .form-container {
+      gap: var(--gap-16xl);
+    }
+    .frame-main {
+      padding-top: var(--padding-xl);
+      padding-bottom: var(--padding-6xl);
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .form-container {
+      padding-top: var(--padding-xl);
+      padding-bottom: var(--padding-10xl);
+      box-sizing: border-box;
+    }
+    .frame-main {
+      gap: var(--gap-lg);
+      padding-left: 185px;
+      padding-right: 183px;
+      box-sizing: border-box;
+    }
+    .group-div {
+      padding-left: var(--padding-158xl);
+      padding-right: var(--padding-158xl);
+      box-sizing: border-box;
+    }
+  }
+  

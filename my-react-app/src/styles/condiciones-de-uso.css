@@ -1,0 +1,587 @@
+.navbar-inner {
+    width: 1920px;
+    height: 134px;
+    position: relative;
+    background-color: var(--color-goldenrod);
+    display: none;
+    max-width: 100%;
+  }
+  .ferre2 {
+    margin: 0;
+  }
+  .express2 {
+    margin: 0;
+    color: var(--color-gainsboro);
+  }
+  .ferre-express2 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    line-height: 105.6%;
+    font-weight: 800;
+    font-family: inherit;
+    z-index: 1;
+  }
+  .logo-ferreexpres-largo-mesa-de2 {
+    height: 57px;
+    width: 255px;
+    position: absolute;
+    margin: 0 !important;
+    right: -119px;
+    bottom: -9px;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .ferre-express-group {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+  }
+  .frame-child6 {
+    height: 49px;
+    width: 1073px;
+    position: relative;
+    background-color: var(--color-white);
+    display: none;
+    max-width: 100%;
+  }
+  .buscar-productosmarcas-y {
+    height: 28px;
+    width: 578.9px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    max-width: 100%;
+    z-index: 1;
+  }
+  .group-div {
+    align-self: stretch;
+    background-color: var(--color-white);
+    flex-direction: row;
+    justify-content: flex-start;
+    padding: var(--padding-3xs) var(--padding-3xl) var(--padding-2xs);
+    box-sizing: border-box;
+    z-index: 1;
+  }
+  .group-div,
+  .logo-container,
+  .search-container1 {
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .search-container1 {
+    width: 1073px;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: var(--padding-9xs) 0 0;
+    box-sizing: border-box;
+    font-size: var(--font-size-mini);
+    color: var(--color-dimgray);
+  }
+  .logo-container {
+    width: 1302px;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: var(--gap-xl);
+  }
+  .categorias2,
+  .news-feed-icon2 {
+    position: absolute;
+    left: 0;
+    z-index: 1;
+  }
+  .categorias2 {
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+  }
+  .news-feed-icon2 {
+    top: 4px;
+    width: 19px;
+    height: 19px;
+    object-fit: cover;
+  }
+  .categorias-group {
+    align-self: stretch;
+    height: 26px;
+    position: relative;
+  }
+  .categories-container2 {
+    width: 129px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 0 var(--padding-12xs);
+    box-sizing: border-box;
+  }
+  .ofertas2 {
+    align-self: stretch;
+    position: relative;
+    z-index: 1;
+  }
+  .buttons {
+    width: 103px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-lg) 0 0;
+    box-sizing: border-box;
+    margin-left: -8px;
+  }
+  .acerca-de-nosotros2 {
+    align-self: stretch;
+    position: relative;
+    z-index: 1;
+  }
+  .buttons1,
+  .puntos-fisicos2 {
+    display: flex;
+    margin-left: -8px;
+  }
+  .buttons1 {
+    flex: 1;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 var(--padding-lgi) var(--padding-11xs) 0;
+  }
+  .puntos-fisicos2 {
+    width: 121px;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .options {
+    width: 508px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .crea-tu-cuenta2,
+  .mis-pedidos3 {
+    flex: 1;
+    position: relative;
+    z-index: 1;
+  }
+  .ingresa2 {
+    align-self: stretch;
+    position: relative;
+    z-index: 1;
+  }
+  .login-container1 {
+    flex: 0.7829;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-9xl) 0 0;
+  }
+  .shopping-cart-icon2 {
+    width: 27px;
+    height: 27px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .cart-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 0 var(--padding-12xs);
+  }
+  .account {
+    width: 423px;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+  }
+  .account,
+  .navbar2,
+  .options-parent {
+    display: flex;
+    max-width: 100%;
+  }
+  .options-parent {
+    width: 1358px;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: var(--gap-xl);
+    text-align: center;
+    font-size: var(--font-size-mini);
+    color: var(--color-black);
+  }
+  .navbar2 {
+    align-self: stretch;
+    background-color: var(--color-goldenrod);
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-sm) var(--padding-247xl) var(--padding-xl);
+    box-sizing: border-box;
+    gap: var(--gap-lgi);
+    text-align: left;
+    font-size: var(--font-size-8xl);
+    color: var(--color-gray-300);
+    font-family: var(--font-inter);
+  }
+  .ajustes-condiciones {
+    width: 238px;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+  }
+  .condiciones-de-uso3 {
+    margin: 0;
+    align-self: stretch;
+    position: relative;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+  }
+  .bienvenido-a-ferreexpress {
+    width: 692px;
+    position: relative;
+    font-size: var(--font-size-base);
+    display: inline-block;
+    max-width: 100%;
+  }
+  .terms-container {
+    width: 712px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-xs);
+    max-width: 100%;
+    flex-shrink: 0;
+    font-size: var(--font-size-16xl);
+    color: var(--color-black);
+  }
+  .legal-child {
+    align-self: stretch;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .frame-child7,
+  .legal1 {
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .legal1 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 var(--padding-12xs);
+    gap: 26.8px;
+  }
+  .frame-child7 {
+    height: 1188.9px;
+    width: 771px;
+    position: relative;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    display: none;
+  }
+  .general {
+    margin: 0;
+    font-size: var(--font-size-5xl);
+  }
+  .al-acceder-a-ferreexpress-y-ha {
+    margin: 0;
+  }
+  .blank-line6 {
+    margin: 0;
+    font-size: 30px;
+  }
+  .registro-y-cuenta {
+    margin: 0;
+    font-size: var(--font-size-5xl);
+  }
+  .blank-line7,
+  .para-realizar-compras-en-ferre {
+    margin: 0;
+  }
+  .privacidad {
+    margin: 0;
+    font-size: var(--font-size-5xl);
+  }
+  .blank-line8,
+  .en-ferreexpress-respetamos {
+    margin: 0;
+  }
+  .productos-y-disponibilidad {
+    margin: 0;
+    font-size: var(--font-size-5xl);
+  }
+  .blank-line9,
+  .nos-esforzamos-en {
+    margin: 0;
+  }
+  .precios-y-pagos {
+    margin: 0;
+    font-size: var(--font-size-5xl);
+  }
+  .blank-line10,
+  .todos-los-precios-estn-expres {
+    margin: 0;
+  }
+  .envo-y-entrega {
+    margin: 0;
+    font-size: var(--font-size-5xl);
+  }
+  .blank-line11,
+  .los-pedidos-sern {
+    margin: 0;
+  }
+  .devoluciones-y-reembolsos {
+    margin: 0;
+    font-size: var(--font-size-5xl);
+  }
+  .blank-line12,
+  .si-no-ests {
+    margin: 0;
+  }
+  .propiedad-intelectual {
+    margin: 0;
+    font-size: var(--font-size-5xl);
+  }
+  .blank-line13,
+  .todo-el-contenido {
+    margin: 0;
+  }
+  .limitacin-de-responsabilidad {
+    margin: 0;
+    font-size: var(--font-size-5xl);
+  }
+  .blank-line14,
+  .ferreexpress-no-se-hace-respon {
+    margin: 0;
+  }
+  .ley-aplicable {
+    margin: 0;
+    font-size: var(--font-size-5xl);
+  }
+  .estas-condiciones-de {
+    margin: 0;
+  }
+  .general-11-al-container {
+    height: 1132.6px;
+    flex: 1;
+    position: relative;
+    display: inline-block;
+    max-width: 100%;
+    z-index: 1;
+  }
+  .footer-information,
+  .rectangle-parent2 {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .rectangle-parent2 {
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    flex-direction: row;
+    padding: var(--padding-4xl) var(--padding-15xl) 30px;
+    font-size: var(--font-size-base);
+    color: var(--color-black);
+  }
+  .footer-information {
+    flex-direction: column;
+    gap: 41.5px;
+  }
+  .contacto1 {
+    font-family: var(--font-inter);
+  }
+  .blank-line15,
+  .contacto,
+  .para-cualquier-consulta {
+    margin: 0;
+  }
+  .contacto-para-cualquier-container {
+    position: relative;
+    font-size: var(--font-size-base);
+    color: var(--color-black);
+  }
+  .footer-content {
+    width: 771.1px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 62.1px;
+    max-width: 100%;
+  }
+  .footer,
+  .frame-child8 {
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .footer {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-8xl) 32px var(--padding-xl);
+    text-align: left;
+    font-size: var(--font-size-mini);
+    color: var(--color-steelblue);
+    font-family: var(--font-inter);
+  }
+  .frame-child8 {
+    width: 1920px;
+    height: 266px;
+    position: relative;
+    background-color: var(--color-whitesmoke-400);
+    border: 1px solid var(--color-silver);
+    display: none;
+  }
+  .avisos-de-privacidad2,
+  .condiciones-de-uso4 {
+    flex: 1;
+    position: relative;
+    line-height: 137%;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 161px;
+    z-index: 1;
+  }
+  .ferreexpress2,
+  .links {
+    align-self: stretch;
+    display: flex;
+  }
+  .links {
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    gap: var(--gap-7xs);
+  }
+  .ferreexpress2 {
+    height: 40px;
+    position: relative;
+    line-height: 137%;
+    font-weight: 500;
+    color: var(--color-dimgray);
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .condiciones-de-uso2,
+  .group-section {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .group-section {
+    align-self: stretch;
+    background-color: var(--color-whitesmoke-400);
+    border: 1px solid var(--color-silver);
+    box-sizing: border-box;
+    padding: var(--padding-23xl) var(--padding-691xl) var(--padding-128xl);
+    gap: var(--gap-7xs);
+    max-width: 100%;
+    text-align: center;
+    font-size: var(--font-size-lg);
+    color: var(--color-steelblue);
+    font-family: var(--font-inter);
+  }
+  .condiciones-de-uso2 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-whitesmoke-200);
+    overflow: hidden;
+    gap: var(--gap-55xl);
+    line-height: normal;
+    letter-spacing: normal;
+  }
+  @media screen and (max-width: 1200px) {
+    .navbar2 {
+      padding-left: var(--padding-114xl);
+      padding-right: var(--padding-114xl);
+      box-sizing: border-box;
+    }
+    .rectangle-parent2 {
+      padding-top: var(--padding-xl);
+      padding-bottom: var(--padding-xl);
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 1150px) {
+    .navbar2 {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .condiciones-de-uso3 {
+      font-size: var(--font-size-2xl);
+    }
+    .footer-information {
+      gap: var(--gap-2xl);
+    }
+    .footer-content {
+      gap: 16px;
+    }
+  }
+  @media screen and (max-width: 800px) {
+    .condiciones-de-uso3 {
+      font-size: var(--font-size-9xl);
+    }
+    .footer-content {
+      gap: 31px;
+    }
+    .group-section {
+      padding-left: var(--padding-336xl);
+      padding-right: var(--padding-336xl);
+      box-sizing: border-box;
+    }
+    .condiciones-de-uso2 {
+      gap: var(--gap-18xl);
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .group-section,
+    .navbar2 {
+      padding-left: var(--padding-47xl);
+      padding-right: var(--padding-47xl);
+      box-sizing: border-box;
+    }
+    .group-section {
+      padding-left: var(--padding-158xl);
+      padding-right: var(--padding-158xl);
+    }
+    .condiciones-de-uso2 {
+      gap: var(--gap-lg);
+    }
+  }
+  
